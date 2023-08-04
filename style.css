@@ -19,3 +19,8 @@ section {
   -o-border-radius: 10px;
   background-position: 2px;
 }
+#project a {
+  text-decoration: none;
+  color: rgb(6, 60, 143);
+  font-weight: 600;
+}
